@@ -1,0 +1,16 @@
+C:\Users\lizec\source\repos\BatchExtractor\bin\Debug\net5.0\BatchExtractor.exe
+C:\Users\lizec\source\repos\BatchExtractor\bin\Debug\net5.0\BatchExtractor.deps.json
+C:\Users\lizec\source\repos\BatchExtractor\bin\Debug\net5.0\BatchExtractor.runtimeconfig.json
+C:\Users\lizec\source\repos\BatchExtractor\bin\Debug\net5.0\BatchExtractor.runtimeconfig.dev.json
+C:\Users\lizec\source\repos\BatchExtractor\bin\Debug\net5.0\BatchExtractor.dll
+C:\Users\lizec\source\repos\BatchExtractor\bin\Debug\net5.0\ref\BatchExtractor.dll
+C:\Users\lizec\source\repos\BatchExtractor\bin\Debug\net5.0\BatchExtractor.pdb
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\BatchExtractor.csprojAssemblyReference.cache
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\BatchExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\BatchExtractor.AssemblyInfoInputs.cache
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\BatchExtractor.AssemblyInfo.cs
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\BatchExtractor.csproj.CoreCompileInputs.cache
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\BatchExtractor.dll
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\ref\BatchExtractor.dll
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\BatchExtractor.pdb
+C:\Users\lizec\source\repos\BatchExtractor\obj\Debug\net5.0\BatchExtractor.genruntimeconfig.cache
